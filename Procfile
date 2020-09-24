@@ -1,0 +1,1 @@
+web: gunicorn RockPaperScissorsClassifier.wsgi --log-file -
