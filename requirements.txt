@@ -57,5 +57,6 @@ uritemplate==3.0.1
 urllib3==1.25.10
 virtualenv==20.0.31
 virtualenv-clone==0.5.4
+whitenoise==5.2.0
 wrapt==1.12.1
 zipp==3.1.0
